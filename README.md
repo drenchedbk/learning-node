@@ -1,1 +1,1 @@
-# leaning-node
+# learning-node
